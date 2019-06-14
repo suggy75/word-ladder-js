@@ -1,0 +1,16 @@
+{
+  "name": "word-search-node",
+  "version": "1.0.0",
+  "description": "Solution to a fun word ladder coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matt Sugden",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "underscore": "^1.9.1"
+  }
+}
