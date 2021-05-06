@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.24.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
